@@ -14,3 +14,7 @@ Still, I think it's interesting to decompose what's happening in the chain-of-th
 The specific behavioral patterns used were sourced from [this](https://openreview.net/forum?id=OwhVWNOBcz&referrer=%5Bthe%20profile%20of%20Philip%20Torr%5D(%2Fprofile%3Fid%3D~Philip_Torr1)) research paper from DeepMind.
 
 The figures generated from running the main module are available in the images directory.
+
+## Graph of Reasoning Trajectories Across Three Responses to the Same Question
+
+![Chain-of-Thought Trajectory Graph](images/q1_trajectory.png)
