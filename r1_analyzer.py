@@ -353,8 +353,8 @@ class R1Analyzer:
 if __name__ == "__main__":
 
     # Setup variables
-    PATTERN_FILE = "/Users/giordanorogers/Documents/Code/reasoning_branches/ds4200_final/patternfile.txt"
-    DATA_DIR = "/Users/giordanorogers/Documents/Code/reasoning_branches/ds4200_final/data"
+    PATTERN_FILE = "patternfile.txt"
+    DATA_DIR = "data"
     QUESTION_FOR_GRAPH = 'q1'
 
     # Initialize the class & data methods
